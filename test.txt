@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-test
 test3
-=======
 test2
-test
->>>>>>> 96b14840c76bc43854f06645727242e7ad9d374c
 test
 test
 test
